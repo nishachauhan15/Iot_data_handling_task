@@ -1,0 +1,1 @@
+ERROR:root:Error inserting message into MongoDB: Collection objects do not implement truth value testing or bool(). Please compare with None instead: collection is not None
